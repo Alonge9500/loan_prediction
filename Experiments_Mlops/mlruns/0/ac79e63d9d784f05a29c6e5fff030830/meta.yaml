@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Desktop/loanPrediction/mlruns/0/ac79e63d9d784f05a29c6e5fff030830/artifacts
+end_time: 1684241161131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac79e63d9d784f05a29c6e5fff030830
+run_name: sassy-lamb-75
+run_uuid: ac79e63d9d784f05a29c6e5fff030830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684241043820
+status: 3
+tags: []
+user_id: pc
